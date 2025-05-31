@@ -1,0 +1,1 @@
+# RabbitMQ consumer + alert logic
